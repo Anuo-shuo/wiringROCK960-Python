@@ -4,8 +4,8 @@ Note
 wiringROCK960 for Python
 ===================
 
-wiringOP: An implementation of most of the Arduino Wiring functions for
-the Orange Pi.
+wiringROCK960: An implementation of most of the Arduino Wiring functions for
+the Orange Pi and ROCK960.
 
 Supported boards
 ===================
