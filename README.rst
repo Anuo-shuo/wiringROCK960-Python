@@ -13,6 +13,7 @@ tested on:
 ``Orange Pi Zero2``
 ``Orange Pi 3 LTS``
 ``Orange Pi 4 LTS``
+``ROCK960``
 
 Manual Build
 ============
