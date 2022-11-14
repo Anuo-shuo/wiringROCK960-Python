@@ -51,7 +51,8 @@ Usage
 =====
 
 .. code:: python
-
+    sudo python3
+    
     import wiringpi
 
     # One of the following MUST be called before using IO functions:
