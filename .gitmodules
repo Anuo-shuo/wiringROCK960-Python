@@ -1,4 +1,4 @@
 [submodule "wiringOP"]
 	path = wiringOP
-	url = https://github.com/Anuo-shuo/wiringROCK960.git
+	url =  https://ghproxy.com/https://github.com/Anuo-shuo/wiringROCK960.git
 	branch = master
