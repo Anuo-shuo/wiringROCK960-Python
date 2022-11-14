@@ -23,7 +23,7 @@ Get/setup repo
 
 .. code:: bash
 
-    git clone --recursive https://github.com/orangepi-xunlong/wiringOP-Python.git
+    git clone --recursive https://github.com/Anuo-shuo/wiringROCK960-Python
     git clone --recursive https://ghproxy.com/https://github.com/Anuo-shuo/wiringROCK960-Python
     cd wiringOP-Python
 
