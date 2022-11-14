@@ -1,7 +1,7 @@
 Note
 ~~~~
 
-wiringOP for Python
+wiringROCK960 for Python
 ===================
 
 wiringOP: An implementation of most of the Arduino Wiring functions for
