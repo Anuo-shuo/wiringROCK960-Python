@@ -49,10 +49,8 @@ Build & install with
 
 Usage
 =====
-
-.. code:: python
     sudo python3
-    
+.. code:: python
     import wiringpi
 
     # One of the following MUST be called before using IO functions:
