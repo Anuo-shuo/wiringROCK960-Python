@@ -25,7 +25,7 @@ Get/setup repo
 
     git clone --recursive https://github.com/Anuo-shuo/wiringROCK960-Python
     git clone --recursive https://ghproxy.com/https://github.com/Anuo-shuo/wiringROCK960-Python
-    cd wiringOP-Python
+    cd wiringROCK960-Python
 
 Don't forget the --recursive; it is required to also pull in the WiringPi C code from its own repository.
 
