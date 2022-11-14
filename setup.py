@@ -50,7 +50,7 @@ boards = ["orangepir1", "orangepizero", "orangepizero-lts", "orangepipc", "orang
           "orangepiplus2e", "orangepione", "orangepioneh5", "orangepilite", "orangepiplus", "orangepizeroplus2h3",
           "orangepizeroplus", "orangepipc2", "orangepiprime", "orangepizeroplus2h5", "orangepiwin", "orangepiwinplus",
           "orangepi3", "orangepi3-lts", "orangepilite2", "orangepioneplus", "orangepi4", "orangepi4-lts", "orangepirk3399",
-          "orangepi800", "orangepizero2", "orangepizero2-lts", "orangepizero2-b", "orangepir1plus-lts", "orangepir1plus"]
+          "orangepi800", "orangepizero2", "orangepizero2-lts", "orangepizero2-b", "orangepir1plus-lts", "orangepir1plus", "rock960"]
 
 inf_orangepi = cmdline('cat','/etc/orangepi-release')
 inf_armbian = cmdline('cat','/etc/armbian-release')
@@ -121,6 +121,7 @@ elif BOARD == "orangepi4": EXTRA_CFLAGS = "-DCONFIG_ORANGEPI_4"
 elif BOARD == "orangepi4-lts": EXTRA_CFLAGS = "-DCONFIG_ORANGEPI_4_LTS"
 elif BOARD == "orangepi800": EXTRA_CFLAGS = "-DCONFIG_ORANGEPI_800"
 elif BOARD == "orangepir1plus-rk3328": EXTRA_CFLAGS = "-DCONFIG_ORANGEPI_R1PLUS"
+elif BOARD == "rock960": EXTRA_CFLAGS = "-DCONFIG_ROCK960"
 
 _wiringpi = Extension(
     '_wiringpi',
