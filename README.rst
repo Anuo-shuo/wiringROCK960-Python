@@ -23,6 +23,7 @@ Get/setup repo
 .. code:: bash
 
     git clone --recursive https://github.com/orangepi-xunlong/wiringOP-Python.git
+    git clone --recursive https://ghproxy.com/https://github.com/Anuo-shuo/wiringROCK960-Python
     cd wiringOP-Python
 
 Don't forget the --recursive; it is required to also pull in the WiringPi C code from its own repository.
